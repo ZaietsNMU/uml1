@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1637232246 source:c:\bouml_projects\uml1\src\basedata.cpp
+	"BaseData.h"
+
+1637232387 c:\bouml_projects\uml1\src\basedata.h
+	<cstdio>
+
+1637226639 source:c:\bouml_projects\uml1\src\main.cpp
+	"IntData.h"
+
+1637231048 c:\bouml_projects\uml1\src\intdata.h
+	"BaseData.h"
+
+1637231159 source:c:\bouml_projects\uml1\src\doubledata.cpp
+	"DoubleData.h"
+
+1637232078 c:\bouml_projects\uml1\src\doubledata.h
+	"BaseData.h"
+
+1637231050 source:c:\bouml_projects\uml1\src\intdata.cpp
+	"IntData.h"
+
+1637232320 source:c:\bouml_projects\uml1\src\dynamicmassive.cpp
+	"DynamicMassive.h"
+
+1637232549 c:\bouml_projects\uml1\src\dynamicmassive.h
+	"BaseData.h"
+
